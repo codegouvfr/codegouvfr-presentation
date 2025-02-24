@@ -1,0 +1,73 @@
+site_name: Les produits de code.gouv.fr
+site_url: https://code.gouv.fr/produits
+site_description: Documentation destinée aux administrations publiques pour découvrir les produits de code.gouv.fr
+site_author: Mission logiciels libres
+
+repo_url: https://github.com/codegouvfr/codegouvfr-documentation
+edit_uri: blob/main/
+
+nav:
+- Documentation: 'index.md'
+- À propos: 'about.md'
+
+theme:
+  name: dsfr
+  locale: fr
+  menulateral: true
+  include_search_page: true
+  show_revision_date: true
+  libelle_bouton_editer: Modifier cette page
+  intitule: "Direction <br> interministérielle <br> du numérique"
+  header:
+    titre: "Les produits de code.gouv.fr"
+    sous_titre: "Recourir et contribuer aux produits de code.gouv.fr"
+  footer:
+    description: "Ce site est géré par la mission logiciels libres et communs numériques de la DINUM"
+    links:
+      - name: legifrance.gouv.fr
+        url: https://legifrance.gouv.fr
+      - name: gouvernement.fr
+        url: https://gouvernement.fr
+      - name: service-public.fr
+        url: https://service-public.fr
+      - name: code.gouv.fr
+        url: https://code.gouv.fr
+  features:
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - dsfr_structure.extension.all_extensions
+  - toc:
+      permalink: false
+      anchorlink: true
+      anchorlink_class: "fr-raw-link"
+  - attr_list
+  - def_list
+  - tables
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+copyright: Copyright &copy; 2014 <a href="https://twitter.com/_tomchristie">Tom Christie</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">MkDocs Team</a>.
+
+plugins:
+  - search:
+      lang: fr
+      indexing: "full"
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_section_style: list
+            members_order: source
+            show_root_heading: true
+            show_source: false
+            show_signature_annotations: true
+  - git-revision-date-localized
+  - git-authors
+  - git-revision-date
+
+watch:
+  - mkdocs
