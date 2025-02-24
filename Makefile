@@ -15,7 +15,6 @@ mkdocs:
 	mv index.md docs/index.md
 	cp about.md docs/about.md
 	touch mkdocs
-	sed -i '1 i\# Documentation' docs/index.md # workaround for dsfr template
 	sed -ri 's/^(#+)/\1#/' docs/about.md
 	sed -i '1 i\# À propos' docs/about.md
 	~/.local/bin/pipenv run mkdocs build --verbose -d public/
