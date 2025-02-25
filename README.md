@@ -35,10 +35,10 @@ make txt
 
 # Contribuer
 
-Vos contributions sont les bienvenues !  Voir ces [instructions](https://github.com/codegouvfr/codegouvfr-documentation/blob/main/CONTRIBUTING.fr.md).
+Vos contributions sont les bienvenues !  Voir ces [instructions](https://github.com/codegouvfr/codegouvfr-presentation/blob/main/CONTRIBUTING.fr.md).
 
 # Licence
 
 2025 Mission logiciels libres, DINUM.
 
-Ce dépôt est publié sous [licence Ouverte 2.0](https://raw.githubusercontent.com/codegouvfr/codegouvfr-documentation/refs/heads/main/LICENSES/LICENSE.Etalab-2.0.txt).
+Ce dépôt est publié sous [licence Ouverte 2.0](https://raw.githubusercontent.com/codegouvfr/codegouvfr-presentation/refs/heads/main/LICENSES/LICENSE.Etalab-2.0.txt).

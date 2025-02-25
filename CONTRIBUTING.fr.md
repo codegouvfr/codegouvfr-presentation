@@ -47,7 +47,7 @@ Pour nettoyer les fichiers générés, vous pouvez lancer la commande `make clea
 
 ## Modalités techniques
 
-Le développement de cette documentation a lieu sur [ce dépôt](https://github.com/codegouvfr/codegouvfr-documentation/).
+Le développement de cette documentation a lieu sur [ce dépôt](https://github.com/codegouvfr/codegouvfr-presentation/).
 
 Pour des commentaires privés, utilisez [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 

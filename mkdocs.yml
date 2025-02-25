@@ -3,7 +3,7 @@ site_url: https://code.gouv.fr/presentation
 site_description: Présentation destinée aux administrations publiques pour découvrir code.gouv.fr
 site_author: Mission logiciels libres
 
-repo_url: https://github.com/codegouvfr/codegouvfr-documentation
+repo_url: https://github.com/codegouvfr/codegouvfr-presentation
 edit_uri: blob/main/
 
 nav:
