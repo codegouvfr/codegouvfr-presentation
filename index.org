@@ -22,7 +22,7 @@ la publication des codes sources appartenant aux organismes publics et
 d'encourager la collaboration et l'apprentissage entre agents publics
 ayant des compétences open source.
 
-Nous présentons ici le site code.gouv.fr en quelques images.
+Cette documentation présente le site code.gouv.fr.
 
 La [[https://code.gouv.fr/fr/][page d'accueil]] vous permet de visualiser des logiciels libres à
 utiliser, des logiciels libres produits par l'administration et les
@@ -82,6 +82,24 @@ cet inventaire des codes sources.
 Le site propose aussi un moteur de recherche vous permettant de
 naviguer dans tous les contenus publiés, notamment les wébinaires
 BlueHats.
+
+#+CAPTION: code.gouv.fr: Open Source Programme Offices
+#+NAME:   fig:codegouvfr-ospos
+#+ATTR_MD: :width 600px
+#+ATTR_TEXINFO: :width 5.5in
+[[./assets/images/codegouvfr-ospos.png]]
+
+Le site propose une page présentant les Open Source Programme Offices
+du secteur public.
+
+#+CAPTION: code.gouv.fr: Formations
+#+NAME:   fig:codegouvfr-formations
+#+ATTR_MD: :width 600px
+#+ATTR_TEXINFO: :width 5.5in
+[[./assets/images/codegouvfr-formations.png]]
+
+Le site propose une page listant les formations Open Source vers
+lesquelles peuvent se tourner les organismes publics.
 
 #+CAPTION: code.gouv.fr: le moteur de recherche
 #+NAME:   fig:codegouvfr-recherche
