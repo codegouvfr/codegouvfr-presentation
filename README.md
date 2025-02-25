@@ -3,7 +3,7 @@
 
 # Présentation
 
-Cette documentation des produits est proposée par la [mission logiciels libres de la DINUM](https://code.gouv.fr) à la fois [en ligne](https://code.gouv.fr/produits/) et [en PDF](https://code.gouv.fr/produits/codegouvfr-presentation.pdf).
+Cette présentation de code.gouv.fr est proposée par la [mission logiciels libres de la DINUM](https://code.gouv.fr) à la fois [en ligne](https://code.gouv.fr/presentation/) et [en PDF](https://code.gouv.fr/presentation/codegouvfr-presentation.pdf).
 
 Pour tout commentaire ou suggestion, veuillez nous [contacter](https://code.gouv.fr/fr/contact/).
 

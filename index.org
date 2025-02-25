@@ -1,12 +1,12 @@
 #+title: Présentation du site code.gouv.fr
-#+subtitle: Découvrir les services de la mission logiciels libres
+#+subtitle: Découvrir le site de la mission logiciels libres
 #+author: L'équipe de la mission logiciels libres
 #+date: 2025
 #+language: fr
 
-* Présentation de code.gouv.fr
+* Introduction
   :PROPERTIES:
-  :CUSTOM_ID: presentation
+  :CUSTOM_ID: introduction
   :END:
 
 Le site [[https://code.gouv.fr][code.gouv.fr]] présente la mission logiciels libres de la DINUM,

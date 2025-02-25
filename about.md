@@ -1,6 +1,6 @@
 # Présentation
 
-Cette documentation est proposée par la [mission logiciels libres de la DINUM](https://code.gouv.fr) à la fois [en ligne](https://code.gouv.fr/produits/) et [en PDF](https://code.gouv.fr/produits/codegouvfr-presentation.pdf).
+Cette documentation est proposée par la [mission logiciels libres de la DINUM](https://code.gouv.fr) à la fois [en ligne](https://code.gouv.fr/presentation/) et [en PDF](https://code.gouv.fr/presentation/codegouvfr-presentation.pdf).
 
 Vos contributions sont les bienvenues !  Voir ces [instructions](https://github.com/codegouvfr/codegouvfr-documentation/blob/main/CONTRIBUTING.fr.md).
 

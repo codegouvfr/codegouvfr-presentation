@@ -1,6 +1,6 @@
-site_name: Les produits de code.gouv.fr
-site_url: https://code.gouv.fr/produits
-site_description: Documentation destinée aux administrations publiques pour découvrir les produits de code.gouv.fr
+site_name: Présentation de code.gouv.fr
+site_url: https://code.gouv.fr/presentation
+site_description: Présentation destinée aux administrations publiques pour découvrir code.gouv.fr
 site_author: Mission logiciels libres
 
 repo_url: https://github.com/codegouvfr/codegouvfr-documentation
@@ -19,8 +19,8 @@ theme:
   libelle_bouton_editer: Modifier cette page
   intitule: "Direction <br> interministérielle <br> du numérique"
   header:
-    titre: "Les produits de code.gouv.fr"
-    sous_titre: "Recourir et contribuer aux produits de code.gouv.fr"
+    titre: "Découvrir code.gouv.fr"
+    sous_titre: "Les informations et services proposés via code.gouv.fr"
   footer:
     description: "Ce site est géré par la mission logiciels libres et communs numériques de la DINUM"
     links:
