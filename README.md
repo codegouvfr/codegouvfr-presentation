@@ -1,5 +1,7 @@
+[![img](https://img.shields.io/badge/code.gouv.fr-publi%C3%A9-orange.svg)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.world)
 
-[![img](https://img.shields.io/badge/code.gouv.fr-contributif-blue.svg)](https://code.gouv.fr/documentation/#quels-degres-douverture-pour-les-codes-sources)
+⚠️ Depuis la fermeture de l'inventaire des codes sources, disponible auparavant sur [code.gouv.fr/sources](https://code.gouv.fr/sources), cette présentation est en partie obsolète.
 
 # Présentation
 
